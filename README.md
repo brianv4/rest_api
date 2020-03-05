@@ -119,9 +119,9 @@ class Kontak extends REST_Controller {
 
 }
 ?>
-9.  instal postman
-10. Untuk mengujinya buka Postman, pilih metode GET,POST,PUT atau DELETE, anda bisa mencobanya satu per satu lalu masukan http://127.0.0.1/rest_ci/index.php/kontak pada address bar, klik "Body" pada menu dibawah address bar, pilih x-www-form-urlencoded, lalu klik "Send".
-11. keterangan :
+10.  instal postman
+11. Untuk mengujinya buka Postman, pilih metode GET,POST,PUT atau DELETE, anda bisa mencobanya satu per satu lalu masukan http://127.0.0.1/rest_ci/index.php/kontak pada address bar, klik "Body" pada menu dibawah address bar, pilih x-www-form-urlencoded, lalu klik "Send".
+12. keterangan :
     GET     = menampilkan data
     POST    = menambahkan data
     PUT     = mengubah data (update)
